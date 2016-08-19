@@ -1,0 +1,27 @@
+.container{
+	width: 500px;
+	height: 500px;
+	display: purple;
+	margin: 40px auto;
+	background: black;
+}
+.gr{
+	display: inline;
+	float: left;
+	background: #ffcc22;
+	margin: 0px;
+	border:1px solid purple;
+	height: 29.25px;
+	width: 29.25px;
+}
+.bt{
+	width: 180px;
+	height: 35px;
+	margin-right: 8px;
+}
+.btct{
+	height: 30px;
+	width: 576px;
+	display:block;
+	margin:0px auto;
+}
